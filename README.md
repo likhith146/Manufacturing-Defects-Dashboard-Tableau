@@ -60,14 +60,4 @@ This project presents a **Tableau-based analytics dashboard** that analyzes manu
 
 This Tableau dashboard provides actionable insights into manufacturing defects using 2024 data. It highlights high-impact defect types, compares inspection methods, and visualizes trends that support strategic quality improvements and cost reduction decisions. By presenting defects, severity, repair costs, and monthly variations clearly, the dashboard enables stakeholders to prioritize issues and enhance manufacturing performance.
 
----
 
-## 👩‍💻 Author
-
-**Pavithra L** – MBA (Business Analytics & Finance)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
